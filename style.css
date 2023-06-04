@@ -22,7 +22,7 @@ html{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #150050;
+    background-color: #537FE7;
     position: fixed;
     padding-left: 10rem;
 }
@@ -56,7 +56,7 @@ html{
 
 .content .list-menu li a{
     padding: 3rem 1rem 1rem 1rem;
-    color: #ffffff;
+    color: #E9F8F9;
     font-size: 0.8rem;
     text-transform: uppercase;
     font-weight: 500;
@@ -65,14 +65,14 @@ html{
 
 .content .list-menu li a:hover{
     background-color: #0000001a;
-    border-bottom: 3px solid #610094;
-    color: #610094;
+    border-bottom: 3px solid #C0EEF2;
+    color: #C0EEF2;
     border-radius: 6px;
 }
 
 .first-section{
     height: 100vh;
-    background-image: linear-gradient(#000000, #0a0025);
+   background-color: #181823;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,18 +112,18 @@ html{
     height: 60px;
     cursor: pointer;
     text-transform: uppercase;
-    background-color: #150050;
+    background-color: #537FE7;
     border-radius: 15px;
-    color: #ffffff;
+    color: #C0EEF2;
     font-weight: 700;
     margin-top: 3rem;
     transition: all 100ms ease-in;
 }
 
 .btn button:hover{
-    border: 1px solid #610094;
+    border: 1px solid #537FE7;
     background-color: transparent;
-    color: #3F0071;
+    color: #C0EEF2;
 }
 .btn{
     width: 480px;
